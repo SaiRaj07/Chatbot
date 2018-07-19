@@ -2,7 +2,7 @@
 
 """A)Name:Sairaj Amberkar
 
-B)The program was completely implemented by contributions exclusively from the team members without
+B)The program was completely implemented by contributions exclusively from me without
    referring to any source beyond the ones taught or referred to in class.
 
 C)The program runs without any error and provides the output as required in the assignment.
